@@ -6,7 +6,7 @@ Expansioner utilizes 460,000 words in the english dictionary ([Credit to DWYL fo
 
 ## How to use it?
 
-First, you would want to download the list of words (from here)[https://github.com/dwyl/english-words/raw/master/words_alpha.txt] and then put it in the same directory as the Python script. Then you would want to import the script utilizing ``from expansioner import get_expansion`` and then you would want to utilize the "get_expansion" function like below.
+First, you would want to download the list of words [from here](https://github.com/dwyl/english-words/raw/master/words_alpha.txt) and then put it in the same directory as the Python script. Then you would want to import the script utilizing ``from expansioner import get_expansion`` and then you would want to utilize the "get_expansion" function like below.
 
 ```python
 from expansioner import get_expansion
