@@ -16,7 +16,7 @@ get_expansion("Hi")
 ```
 
 ## Final Considerations
-Overall, this was a very fun project, but it still contains offensive language inside of the dictionary that would take a lot of time to remove. If you want to use this for a project in a commercial setting, I would recommend removing the offensive language from the dictionary.
+Overall, this was a very fun project, but it still contains offensive language inside of the dictionary that would take a lot of time to remove. If you want to use this for a normal full-on project, I would recommend removing all the language.
 
 ## Credits
 - [DWYL](https://github.com/dwyl/english-words) for the list of words
